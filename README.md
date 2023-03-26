@@ -1,3 +1,7 @@
+Expenzo - An expense analysis and tracking system built using Reactjs and Speechly API
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

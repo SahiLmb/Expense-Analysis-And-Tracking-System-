@@ -10,18 +10,23 @@
 </p>
 
 <br/>
+
 ## 2. System Overview
 
-<br/>
 <br/> 
 <p align="center">
   <img src="src/assets/GIF OVERVIEW Github.gif" alt="overview-gif" width="80%" />
 </p>
 
+<br/>
+
 ## 3. Architecture
+<br />
+<p align="center">
+<img src="src/assets/DFD level 1.png" alt="DFD level 1" width = "80%"/>
+</p>
 
-
-# Getting Started with Create React App
+## 4. Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -15,7 +15,7 @@
 <br/>
 <br/> 
 <p align="center">
-  <img src="" alt="landing-page-gif" width="80%" />
+  <img src="src/assets/GIF OVERVIEW Github.gif" alt="overview-gif" width="80%" />
 </p>
 
 

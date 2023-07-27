@@ -1,18 +1,5 @@
 # Expenzo - An expense analysis and tracking system built using Reactjs and Speechly API
 <br/>
-![GitHub all releases](https://img.shields.io/github/downloads/{SahiLmb}/{Expense-Analysis-And-Tracking-System-
-}/total)
-![GitHub language count](https://img.shields.io/github/languages/count/{SahiLmb}/{Expense-Analysis-And-Tracking-System-
-})
-![GitHub top language](https://img.shields.io/github/languages/top/{SahiLmb}/{Expense-Analysis-And-Tracking-System-
-}?color=yellow)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/{SahiLmb}/{Expense-Analysis-And-Tracking-System-
-})
-![GitHub forks](https://img.shields.io/github/forks/{SahiLmb}/{Expense-Analysis-And-Tracking-System-
-}?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/{SahiLmb}/{Expense-Analysis-And-Tracking-System -
-}?style=social)
-
 
 ## 1. User giving voice input to the system.
 

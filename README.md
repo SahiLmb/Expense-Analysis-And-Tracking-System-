@@ -1,7 +1,7 @@
-Expenzo - An expense analysis and tracking system built using Reactjs and Speechly API
+#Expenzo - An expense analysis and tracking system built using Reactjs and Speechly API
 
 <p align="center">
-  <img src="src/assets/budget.png" alt="landing-page-gif" width="80%" />
+  <img src="src/assets/GIF EXPENSE Analysis.gif" alt="landing-page-gif" width="80%" />
 </p>
 
 # Getting Started with Create React App

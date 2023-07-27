@@ -1,8 +1,14 @@
-#Expenzo - An expense analysis and tracking system built using Reactjs and Speechly API
+# Expenzo - An expense analysis and tracking system built using Reactjs and Speechly API
+<br/>
+ 1. User giving audio input to the application.
 
+<br/>
+<br/> 
 <p align="center">
   <img src="src/assets/GIF EXPENSE Analysis.gif" alt="landing-page-gif" width="80%" />
 </p>
+
+
 
 # Getting Started with Create React App
 

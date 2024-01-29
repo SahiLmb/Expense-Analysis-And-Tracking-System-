@@ -1,6 +1,10 @@
-# Expenzo - An expense analysis and tracking system built using Reactjs and Speechly API
-<br/>
+ <h1 align="center">Expenzo</h1>
 
+ <div align="center">
+     An expense analysis and tracking system built using Reactjs and Speechly API 
+ </div>
+<br/>
+  
 ## 1. User giving voice input to the system.
 
 <br/>
